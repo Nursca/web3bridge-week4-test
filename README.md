@@ -64,3 +64,6 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+
+## Deployed Address 
+**Core Testnet2** - 0x7096C8FD97a399ec59C8DF7055329223821b46F1
